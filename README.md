@@ -1,2 +1,2 @@
 # betting-helper
-Betting Helper
+Betting Helper for CL and PL, just a simple program
